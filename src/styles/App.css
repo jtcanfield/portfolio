@@ -1,8 +1,13 @@
 body{
+  margin: 0;
+  padding: 0;
   font-family: Arial, Verdana, sans-serif;
 }
 
 /*FOOTER STYLES*/
+.footer-container{
+  text-align: center;
+}
 .socialmediabutton {
   height: 30px;
 }
