@@ -5,6 +5,9 @@ body{
 }
 
 /*TOPBAR STYLES*/
+.topbar-container{
+  
+}
 .topbar-left{
   float: left;
 }

@@ -11,8 +11,8 @@ export default class TopBar extends Component {
         <div className="topbar-right">
           <p>About</p>
           <p>Projects</p>
-          <p>This is a p</p>
-          <p>This is a p</p>
+          <p>Contact</p>
+          <p>Resume</p>
         </div>
       </div>
     );
