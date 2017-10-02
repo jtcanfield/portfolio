@@ -12,6 +12,25 @@ body{
   float: right;
 }
 
+/*HEADER STYLES*/
+.header-container{
+  border: 10px solid black;
+  height: 500px;
+}
+
+
+/*PORTFOLIO STYLES*/
+.portfolio-container{
+  border: 10px solid black;
+  height: 500px;
+}
+
+
+/*ABOUT STYLES*/
+.about-container{
+  border: 10px solid black;
+  height: 500px;
+}
 
 
 /*FOOTER STYLES*/
