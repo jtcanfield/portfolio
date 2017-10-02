@@ -9,6 +9,9 @@ export default class TopBar extends Component {
           <h1 className="name-title">Jonathan Canfield</h1>
         </div>
         <div className="topbar-right">
+          <p>About</p>
+          <p>Projects</p>
+          <p>This is a p</p>
           <p>This is a p</p>
         </div>
       </div>

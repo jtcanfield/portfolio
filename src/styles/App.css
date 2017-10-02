@@ -19,16 +19,23 @@ body{
 }
 
 
-/*PORTFOLIO STYLES*/
-.portfolio-container{
-  border: 10px solid black;
+/*ABOUT STYLES*/
+.about-container{
+  border: 10px solid grey;
   height: 500px;
 }
 
 
-/*ABOUT STYLES*/
-.about-container{
-  border: 10px solid black;
+/*PORTFOLIO STYLES*/
+.portfolio-container{
+  border: 10px solid blue;
+  height: 500px;
+}
+
+
+/*LITTLETHINGS STYLES*/
+.littlethings-container{
+  border: 10px solid green;
   height: 500px;
 }
 
