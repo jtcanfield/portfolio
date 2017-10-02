@@ -6,13 +6,13 @@ export default class Footer extends Component {
     return (
       <div className="footer-container">
         <a href="https://www.linkedin.com/in/jonathan-canfield-978641104/">
-          <img className="socialmediabutton" src="linkedinimg.png"/>
+          <img alt="" className="socialmediabutton" src="linkedinimg.png"/>
         </a>
         <a href="https://twitter.com/jtcanfield100">
-          <img className="socialmediabutton"  src="twitterlogo.png"/>
+          <img alt="" className="socialmediabutton"  src="twitterlogo.png"/>
         </a>
         <a href="https://github.com/jtcanfield">
-          <img className="socialmediabutton" src="github.png"/>
+          <img alt="" className="socialmediabutton" src="github.png"/>
         </a>
       </div>
     );
