@@ -4,6 +4,16 @@ body{
   font-family: Arial, Verdana, sans-serif;
 }
 
+/*TOPBAR STYLES*/
+.topbar-left{
+  float: left;
+}
+.topbar-right{
+  float: right;
+}
+
+
+
 /*FOOTER STYLES*/
 .footer-container{
   text-align: center;
